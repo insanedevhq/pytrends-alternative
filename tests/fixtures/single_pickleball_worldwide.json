@@ -1,0 +1,383 @@
+[
+ {
+  "inputUrlOrTerm": "pickleball",
+  "searchTerm": "pickleball",
+  "terms": [
+   "pickleball"
+  ],
+  "geo": "",
+  "timeRange": "today 3-m",
+  "category": 0,
+  "property": "",
+  "status": "ok",
+  "interestOverTime_timelineData": [
+   {
+    "time": "1783641600",
+    "formattedTime": "Jul 10, 2026",
+    "formattedAxisTime": "Jul 10",
+    "value": [
+     60
+    ],
+    "hasData": [
+     true
+    ],
+    "formattedValue": [
+     "60"
+    ],
+    "spread": [
+     1
+    ],
+    "isPartial": false
+   },
+   {
+    "time": "1783728000",
+    "formattedTime": "Jul 11, 2026",
+    "formattedAxisTime": "Jul 11",
+    "value": [
+     64
+    ],
+    "hasData": [
+     true
+    ],
+    "formattedValue": [
+     "64"
+    ],
+    "spread": [
+     2
+    ],
+    "isPartial": false
+   },
+   {
+    "time": "1783814400",
+    "formattedTime": "Jul 12, 2026",
+    "formattedAxisTime": "Jul 12",
+    "value": [
+     68
+    ],
+    "hasData": [
+     true
+    ],
+    "formattedValue": [
+     "68"
+    ],
+    "spread": [
+     2
+    ],
+    "isPartial": false
+   },
+   {
+    "time": "1791590400",
+    "formattedTime": "Oct 10, 2026",
+    "formattedAxisTime": "Oct 10",
+    "value": [
+     53
+    ],
+    "hasData": [
+     true
+    ],
+    "formattedValue": [
+     "53"
+    ],
+    "isPartial": true,
+    "spread": [
+     1
+    ]
+   }
+  ],
+  "interestOverTime_averages": [],
+  "interestBySubregion": [],
+  "interestBy": [
+   {
+    "geoCode": "PW",
+    "geoName": "Palau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PH",
+    "geoName": "Philippines",
+    "value": [
+     100
+    ],
+    "formattedValue": [
+     "100"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KY",
+    "geoName": "Cayman Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MP",
+    "geoName": "Northern Mariana Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   }
+  ],
+  "term": "pickleball",
+  "average": 62.4,
+  "peakValue": 100,
+  "peakDate": "2026-09-20T00:00:00.000Z",
+  "latestValue": 54,
+  "changePercent": -2.9,
+  "direction": "stable",
+  "seasonalPeakMonth": null,
+  "metrics": {
+   "average": 62.4,
+   "peakValue": 100,
+   "peakDate": "2026-09-20T00:00:00.000Z",
+   "latestValue": 54,
+   "changePercent": -2.9,
+   "direction": "stable",
+   "seasonality": null,
+   "hasDataRatio": 1
+  },
+  "summaryText": "\"pickleball\" (Worldwide, today 3-m): average interest 62.4/100, peak 100 on 2026-09-20; trend stable (-2.9%); rising: les fous du pickleball (+1,650%), the dink (+140%), mlp pickleball (+50%).",
+  "regions": [
+   {
+    "geoCode": "PW",
+    "geoName": "Palau",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "PH",
+    "geoName": "Philippines",
+    "value": [
+     100
+    ],
+    "formattedValue": [
+     "100"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true
+    ]
+   },
+   {
+    "geoCode": "KY",
+    "geoName": "Cayman Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   },
+   {
+    "geoCode": "MP",
+    "geoName": "Northern Mariana Islands",
+    "value": [
+     0
+    ],
+    "formattedValue": [
+     ""
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     false
+    ]
+   }
+  ],
+  "termName": "pickleball",
+  "termType": "Search term",
+  "interestByCity": [],
+  "interestByMetro": [],
+  "relatedQueries_top": [
+   {
+    "query": "paddle",
+    "value": 100,
+    "formattedValue": "100",
+    "hasData": true,
+    "link": "/trends/explore?q=paddle&date=today+3-m",
+    "isBreakout": false,
+    "likelyNoise": false
+   },
+   {
+    "query": "pickleball paddle",
+    "value": 100,
+    "formattedValue": "100",
+    "hasData": true,
+    "link": "/trends/explore?q=pickleball+paddle&date=today+3-m",
+    "isBreakout": false,
+    "likelyNoise": false
+   },
+   {
+    "query": "pickleball court",
+    "value": 61,
+    "formattedValue": "61",
+    "hasData": true,
+    "link": "/trends/explore?q=pickleball+court&date=today+3-m",
+    "isBreakout": false,
+    "likelyNoise": false
+   }
+  ],
+  "relatedQueries_rising": [
+   {
+    "query": "les fous du pickleball",
+    "value": 1650,
+    "formattedValue": "+1,650%",
+    "link": "/trends/explore?q=les+fous+du+pickleball&date=today+3-m",
+    "isBreakout": false,
+    "likelyNoise": false
+   },
+   {
+    "query": "the dink",
+    "value": 140,
+    "formattedValue": "+140%",
+    "link": "/trends/explore?q=the+dink&date=today+3-m",
+    "isBreakout": false,
+    "likelyNoise": false
+   },
+   {
+    "query": "mlp pickleball",
+    "value": 50,
+    "formattedValue": "+50%",
+    "link": "/trends/explore?q=mlp+pickleball&date=today+3-m",
+    "isBreakout": false,
+    "likelyNoise": false
+   }
+  ],
+  "relatedQueriesNoiseShare": 0,
+  "relatedTopics_top": [
+   {
+    "topic": {
+     "mid": "/m/063wkj",
+     "title": "Pickleball",
+     "type": "Sports"
+    },
+    "value": 100,
+    "formattedValue": "100",
+    "hasData": true,
+    "link": "/trends/explore?q=/m/063wkj&date=today+3-m",
+    "isBreakout": false,
+    "topicTitle": "Pickleball",
+    "topicType": "Sports",
+    "topicMid": "/m/063wkj"
+   },
+   {
+    "topic": {
+     "mid": "/g/11f5jp5d4x",
+     "title": "Pickleball Paddle",
+     "type": "Topic"
+    },
+    "value": 13,
+    "formattedValue": "13",
+    "hasData": true,
+    "link": "/trends/explore?q=/g/11f5jp5d4x&date=today+3-m",
+    "isBreakout": false,
+    "topicTitle": "Pickleball Paddle",
+    "topicType": "Topic",
+    "topicMid": "/g/11f5jp5d4x"
+   },
+   {
+    "topic": {
+     "mid": "/m/014y4n",
+     "title": "Paddle",
+     "type": "Topic"
+    },
+    "value": 6,
+    "formattedValue": "6",
+    "hasData": true,
+    "link": "/trends/explore?q=/m/014y4n&date=today+3-m",
+    "isBreakout": false,
+    "topicTitle": "Paddle",
+    "topicType": "Topic",
+    "topicMid": "/m/014y4n"
+   }
+  ],
+  "relatedTopics_rising": [
+   {
+    "topic": {
+     "mid": "/g/121bwcsc",
+     "title": "Joola Tischtennis GmbH & Co. KG",
+     "type": "Company"
+    },
+    "value": 5000,
+    "formattedValue": "+5,000%",
+    "link": "/trends/explore?q=/g/121bwcsc&date=today+3-m",
+    "isBreakout": false,
+    "topicTitle": "Joola Tischtennis GmbH & Co. KG",
+    "topicType": "Company",
+    "topicMid": "/g/121bwcsc"
+   },
+   {
+    "topic": {
+     "mid": "/g/11dxd2fr47",
+     "title": "Selkirk Sport",
+     "type": "Topic"
+    },
+    "value": 250,
+    "formattedValue": "+250%",
+    "link": "/trends/explore?q=/g/11dxd2fr47&date=today+3-m",
+    "isBreakout": false,
+    "topicTitle": "Selkirk Sport",
+    "topicType": "Topic",
+    "topicMid": "/g/11dxd2fr47"
+   },
+   {
+    "topic": {
+     "mid": "/g/11b6d29p77",
+     "title": "Vợt Pickleball Chính Hãng - VNPICKLEBALL SHOP",
+     "type": "Topic"
+    },
+    "value": 80,
+    "formattedValue": "+80%",
+    "link": "/trends/explore?q=/g/11b6d29p77&date=today+3-m",
+    "isBreakout": false,
+    "topicTitle": "Vợt Pickleball Chính Hãng - VNPICKLEBALL SHOP",
+    "topicType": "Topic",
+    "topicMid": "/g/11b6d29p77"
+   }
+  ],
+  "relatedTopicsStatus": "ok",
+  "samplesUsed": 3,
+  "samplingSpread": 1.58,
+  "dataBreaks": [],
+  "errorMessage": null,
+  "billedResults": 4,
+  "scrapedAt": "2026-10-10T23:35:11.987Z"
+ }
+]

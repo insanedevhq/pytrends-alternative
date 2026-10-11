@@ -1,0 +1,43 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pytrends-alternative"
+version = "0.1.0"
+description = "Google Trends data in pytrends-shaped pandas DataFrames, without pytrends' HTTP 429 errors (runs an Apify Actor)."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+authors = [{ name = "insanedev" }]
+keywords = ["google trends", "pytrends", "pytrends alternative", "google trends api", "apify", "pandas"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+    "Typing :: Typed",
+]
+dependencies = [
+    "apify-client>=1.12",
+    "pandas>=1.3",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/insanedevhq/pytrends-alternative"
+Issues = "https://github.com/insanedevhq/pytrends-alternative/issues"
+"Apify Actor" = "https://apify.com/insanedev/google-trends-scraper"
+
+[tool.hatch.build.targets.sdist]
+include = ["pytrends_alternative", "tests", "examples", "README.md", "LICENSE"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

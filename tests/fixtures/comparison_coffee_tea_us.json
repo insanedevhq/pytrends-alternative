@@ -1,0 +1,802 @@
+[
+ {
+  "inputUrlOrTerm": "coffee, tea",
+  "searchTerm": "coffee, tea",
+  "terms": [
+   "coffee",
+   "tea"
+  ],
+  "geo": "US",
+  "timeRange": "today 1-m",
+  "category": 0,
+  "property": "",
+  "status": "ok",
+  "interestOverTime_timelineData": [
+   {
+    "time": "1788998400",
+    "formattedTime": "Sep 10, 2026",
+    "formattedAxisTime": "Sep 10",
+    "value": [
+     67,
+     31
+    ],
+    "hasData": [
+     true,
+     true
+    ],
+    "formattedValue": [
+     "67",
+     "31"
+    ],
+    "spread": [
+     0,
+     0
+    ],
+    "isPartial": false
+   },
+   {
+    "time": "1789084800",
+    "formattedTime": "Sep 11, 2026",
+    "formattedAxisTime": "Sep 11",
+    "value": [
+     70,
+     31
+    ],
+    "hasData": [
+     true,
+     true
+    ],
+    "formattedValue": [
+     "70",
+     "31"
+    ],
+    "spread": [
+     0,
+     0
+    ],
+    "isPartial": false
+   },
+   {
+    "time": "1789171200",
+    "formattedTime": "Sep 12, 2026",
+    "formattedAxisTime": "Sep 12",
+    "value": [
+     80,
+     35
+    ],
+    "hasData": [
+     true,
+     true
+    ],
+    "formattedValue": [
+     "80",
+     "35"
+    ],
+    "spread": [
+     0,
+     0
+    ],
+    "isPartial": false
+   },
+   {
+    "time": "1791590400",
+    "formattedTime": "Oct 10, 2026",
+    "formattedAxisTime": "Oct 10",
+    "value": [
+     97,
+     34
+    ],
+    "hasData": [
+     true,
+     true
+    ],
+    "formattedValue": [
+     "97",
+     "34"
+    ],
+    "isPartial": true,
+    "spread": [
+     0,
+     0
+    ]
+   }
+  ],
+  "interestOverTime_averages": [
+   78,
+   34
+  ],
+  "interestBySubregion": [
+   {
+    "geoCode": "US-KS",
+    "geoName": "Kansas",
+    "value": [
+     74,
+     26
+    ],
+    "formattedValue": [
+     "74%",
+     "26%"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true,
+     true
+    ]
+   },
+   {
+    "geoCode": "US-HI",
+    "geoName": "Hawaii",
+    "value": [
+     70,
+     30
+    ],
+    "formattedValue": [
+     "70%",
+     "30%"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true,
+     true
+    ]
+   },
+   {
+    "geoCode": "US-MT",
+    "geoName": "Montana",
+    "value": [
+     76,
+     24
+    ],
+    "formattedValue": [
+     "76%",
+     "24%"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true,
+     true
+    ]
+   },
+   {
+    "geoCode": "US-CA",
+    "geoName": "California",
+    "value": [
+     69,
+     31
+    ],
+    "formattedValue": [
+     "69%",
+     "31%"
+    ],
+    "maxValueIndex": 0,
+    "hasData": [
+     true,
+     true
+    ]
+   }
+  ],
+  "interestBy": [],
+  "termName": "",
+  "termType": null,
+  "interestByCity": [],
+  "interestByMetro": [],
+  "relatedQueries_top": [],
+  "relatedQueries_rising": [],
+  "relatedQueriesNoiseShare": null,
+  "relatedTopics_top": [],
+  "relatedTopics_rising": [],
+  "relatedTopicsStatus": null,
+  "term": "coffee, tea",
+  "average": null,
+  "peakValue": null,
+  "peakDate": null,
+  "latestValue": null,
+  "changePercent": null,
+  "direction": null,
+  "seasonalPeakMonth": null,
+  "summaryText": "Comparison (US, today 1-m), average interest on one scale: \"coffee\" 78/100 stable +1.5%; \"tea\" 34/100 stable -1.3%.",
+  "regions": [],
+  "byTerm": [
+   {
+    "term": "coffee",
+    "average": 78,
+    "peakValue": 100,
+    "peakDate": "2026-09-20T00:00:00.000Z",
+    "latestValue": 75,
+    "changePercent": 1.5,
+    "direction": "stable",
+    "seasonalPeakMonth": null,
+    "metrics": {
+     "average": 78,
+     "peakValue": 100,
+     "peakDate": "2026-09-20T00:00:00.000Z",
+     "latestValue": 75,
+     "changePercent": 1.5,
+     "direction": "stable",
+     "seasonality": null,
+     "hasDataRatio": 1
+    },
+    "summaryText": "\"coffee\" (US, today 1-m): average interest 78/100, peak 100 on 2026-09-20; trend stable (+1.5%); rising: student suspended for bringing coffee (Breakout), caraway coffee maker (Breakout), national coffee day deals (Breakout).",
+    "regions": [
+     {
+      "geoCode": "US-KS",
+      "geoName": "Kansas",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-HI",
+      "geoName": "Hawaii",
+      "value": [
+       74
+      ],
+      "formattedValue": [
+       "74"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-MT",
+      "geoName": "Montana",
+      "value": [
+       65
+      ],
+      "formattedValue": [
+       "65"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-CA",
+      "geoName": "California",
+      "value": [
+       64
+      ],
+      "formattedValue": [
+       "64"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "geo": "US",
+    "interestBySubregion": [
+     {
+      "geoCode": "US-KS",
+      "geoName": "Kansas",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-HI",
+      "geoName": "Hawaii",
+      "value": [
+       74
+      ],
+      "formattedValue": [
+       "74"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-MT",
+      "geoName": "Montana",
+      "value": [
+       65
+      ],
+      "formattedValue": [
+       "65"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-CA",
+      "geoName": "California",
+      "value": [
+       64
+      ],
+      "formattedValue": [
+       "64"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "termName": "coffee",
+    "termType": "Search term",
+    "interestByCity": [
+     {
+      "coordinates": {
+       "lat": 43.661471,
+       "lng": -70.2553259
+      },
+      "geoName": "Portland",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "coordinates": {
+       "lat": 21.3069444,
+       "lng": -157.8583333
+      },
+      "geoName": "Honolulu",
+      "value": [
+       97
+      ],
+      "formattedValue": [
+       "97"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "coordinates": {
+       "lat": 37.7749295,
+       "lng": -122.4194155
+      },
+      "geoName": "San Francisco",
+      "value": [
+       91
+      ],
+      "formattedValue": [
+       "91"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "interestByMetro": [
+     {
+      "geoCode": "678",
+      "geoName": "Wichita-Hutchinson KS",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "762",
+      "geoName": "Missoula MT",
+      "value": [
+       62
+      ],
+      "formattedValue": [
+       "62"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "744",
+      "geoName": "Honolulu HI",
+      "value": [
+       59
+      ],
+      "formattedValue": [
+       "59"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "relatedQueries_top": [
+     {
+      "query": "coffee near me",
+      "value": 100,
+      "formattedValue": "100",
+      "hasData": true,
+      "link": "/trends/explore?q=coffee+near+me&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     },
+     {
+      "query": "coffee shop",
+      "value": 83,
+      "formattedValue": "83",
+      "hasData": true,
+      "link": "/trends/explore?q=coffee+shop&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     },
+     {
+      "query": "coffee shops",
+      "value": 80,
+      "formattedValue": "80",
+      "hasData": true,
+      "link": "/trends/explore?q=coffee+shops&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     }
+    ],
+    "relatedQueries_rising": [
+     {
+      "query": "student suspended for bringing coffee",
+      "value": 36900,
+      "formattedValue": "Breakout",
+      "link": "/trends/explore?q=student+suspended+for+bringing+coffee&date=today+1-m&geo=US",
+      "isBreakout": true,
+      "likelyNoise": false
+     },
+     {
+      "query": "caraway coffee maker",
+      "value": 6950,
+      "formattedValue": "Breakout",
+      "link": "/trends/explore?q=caraway+coffee+maker&date=today+1-m&geo=US",
+      "isBreakout": true,
+      "likelyNoise": false
+     },
+     {
+      "query": "national coffee day deals",
+      "value": 6250,
+      "formattedValue": "Breakout",
+      "link": "/trends/explore?q=national+coffee+day+deals&date=today+1-m&geo=US",
+      "isBreakout": true,
+      "likelyNoise": false
+     }
+    ],
+    "relatedQueriesNoiseShare": 0.11,
+    "relatedTopics_top": [],
+    "relatedTopics_rising": [],
+    "relatedTopicsStatus": "unavailable",
+    "billedResults": 5
+   },
+   {
+    "term": "tea",
+    "average": 34,
+    "peakValue": 40,
+    "peakDate": "2026-09-19T00:00:00.000Z",
+    "latestValue": 32,
+    "changePercent": -1.3,
+    "direction": "stable",
+    "seasonalPeakMonth": null,
+    "metrics": {
+     "average": 34,
+     "peakValue": 40,
+     "peakDate": "2026-09-19T00:00:00.000Z",
+     "latestValue": 32,
+     "changePercent": -1.3,
+     "direction": "stable",
+     "seasonality": null,
+     "hasDataRatio": 1
+    },
+    "summaryText": "\"tea\" (US, today 1-m): average interest 34/100, peak 40 on 2026-09-19; trend stable (-1.3%); rising: creation of adam (Breakout), tea act (+170%), boston massacre (+150%).",
+    "regions": [
+     {
+      "geoCode": "US-SD",
+      "geoName": "South Dakota",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-KS",
+      "geoName": "Kansas",
+      "value": [
+       81
+      ],
+      "formattedValue": [
+       "81"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-HI",
+      "geoName": "Hawaii",
+      "value": [
+       73
+      ],
+      "formattedValue": [
+       "73"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-CA",
+      "geoName": "California",
+      "value": [
+       68
+      ],
+      "formattedValue": [
+       "68"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "geo": "US",
+    "interestBySubregion": [
+     {
+      "geoCode": "US-SD",
+      "geoName": "South Dakota",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-KS",
+      "geoName": "Kansas",
+      "value": [
+       81
+      ],
+      "formattedValue": [
+       "81"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-HI",
+      "geoName": "Hawaii",
+      "value": [
+       73
+      ],
+      "formattedValue": [
+       "73"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "US-CA",
+      "geoName": "California",
+      "value": [
+       68
+      ],
+      "formattedValue": [
+       "68"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "termName": "tea",
+    "termType": "Search term",
+    "interestByCity": [
+     {
+      "coordinates": {
+       "lat": 33.6839473,
+       "lng": -117.7946942
+      },
+      "geoName": "Irvine",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "coordinates": {
+       "lat": 33.7455731,
+       "lng": -117.8678338
+      },
+      "geoName": "Santa Ana",
+      "value": [
+       99
+      ],
+      "formattedValue": [
+       "99"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "coordinates": {
+       "lat": 42.3736158,
+       "lng": -71.1097335
+      },
+      "geoName": "Cambridge",
+      "value": [
+       93
+      ],
+      "formattedValue": [
+       "93"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "interestByMetro": [
+     {
+      "geoCode": "678",
+      "geoName": "Wichita-Hutchinson KS",
+      "value": [
+       100
+      ],
+      "formattedValue": [
+       "100"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "725",
+      "geoName": "Sioux Falls(Mitchell) SD",
+      "value": [
+       99
+      ],
+      "formattedValue": [
+       "99"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     },
+     {
+      "geoCode": "807",
+      "geoName": "San Francisco-Oakland-San Jose CA",
+      "value": [
+       64
+      ],
+      "formattedValue": [
+       "64"
+      ],
+      "maxValueIndex": 0,
+      "hasData": [
+       true
+      ]
+     }
+    ],
+    "relatedQueries_top": [
+     {
+      "query": "tea green",
+      "value": 100,
+      "formattedValue": "100",
+      "hasData": true,
+      "link": "/trends/explore?q=tea+green&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     },
+     {
+      "query": "loaded tea",
+      "value": 47,
+      "formattedValue": "47",
+      "hasData": true,
+      "link": "/trends/explore?q=loaded+tea&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     },
+     {
+      "query": "coffee",
+      "value": 43,
+      "formattedValue": "43",
+      "hasData": true,
+      "link": "/trends/explore?q=coffee&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     }
+    ],
+    "relatedQueries_rising": [
+     {
+      "query": "creation of adam",
+      "value": 10650,
+      "formattedValue": "Breakout",
+      "link": "/trends/explore?q=creation+of+adam&date=today+1-m&geo=US",
+      "isBreakout": true,
+      "likelyNoise": false
+     },
+     {
+      "query": "top songs this week",
+      "value": 170,
+      "formattedValue": "+170%",
+      "link": "/trends/explore?q=top+songs+this+week&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": true
+     },
+     {
+      "query": "tea act",
+      "value": 170,
+      "formattedValue": "+170%",
+      "link": "/trends/explore?q=tea+act&date=today+1-m&geo=US",
+      "isBreakout": false,
+      "likelyNoise": false
+     }
+    ],
+    "relatedQueriesNoiseShare": 0.21,
+    "relatedTopics_top": [],
+    "relatedTopics_rising": [],
+    "relatedTopicsStatus": "unavailable",
+    "billedResults": 5
+   }
+  ],
+  "samplesUsed": 3,
+  "samplingSpread": 0,
+  "dataBreaks": [],
+  "errorMessage": null,
+  "billedResults": 10,
+  "scrapedAt": "2026-10-10T23:34:15.811Z"
+ }
+]
